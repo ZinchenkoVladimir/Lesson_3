@@ -6,7 +6,7 @@ public class Task_5 {
 
     public static void main (String[] args) {
 
-        System.out.println("Enter four integers separated by a space, then press Enter (all non-digital characters will be erased):");
+        System.out.println("Enter four integers in range from -2147483648 to 2147483647 separated by a space, then press Enter (all non-digital characters will be erased):");
 
         Scanner scanner = new Scanner(System.in);
 
